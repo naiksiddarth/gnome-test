@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=test
+Exec=test
+Icon=org.gnome.test
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true
